@@ -4,8 +4,8 @@
 }
 
 body {
-    background-size: 100%;
-    -webkit-perspective: 800;
+    background-size: 50%;
+    -webkit-perspective: 500;
 }
 
 li {
